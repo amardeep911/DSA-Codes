@@ -13,3 +13,5 @@ int main(){
     r = fact(2, 3);
     printf("%d", r);
 }
+
+//There also a faster version by taking two multipliction at one time. By doing this the multiplication reduces to 6 rather than 9 hence fast.
